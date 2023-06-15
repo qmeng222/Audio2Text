@@ -1,0 +1,6 @@
+# files:
+.env
+
+# folders:
+/.ipynb_checkpoints
+/.venv
