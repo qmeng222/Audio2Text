@@ -31,9 +31,12 @@
 
 ## Resources:
 
-1. [OpenAI API reference](https://platform.openai.com/docs/api-reference)
-2. [How to turn audio into text](https://platform.openai.com/docs/api-reference/audio)
-3. [How to translates audio into English](https://platform.openai.com/docs/api-reference/audio/create)
-4. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
-5. [The open source version of Whisper](https://github.com/openai/whisper)
-6. [Figure: Whisper's Word Error Rate (WER) breakdown by languages](https://github.com/openai/whisper)
+1. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
+2. [OpenAI API reference](https://platform.openai.com/docs/api-reference)
+   - [How to turn audio into text](https://platform.openai.com/docs/api-reference/audio)
+   - [How to translates audio into English](https://platform.openai.com/docs/api-reference/audio/create)
+3. [The open source version of Whisper](https://github.com/openai/whisper)
+   - [Figure: Whisper's Word Error Rate (WER) breakdown by languages](https://github.com/openai/whisper)
+   - [How to run the Whisper model locally:](https://github.com/openai/whisper) refer to the **_Python usage_** section
+   - [Table: names of the available models and their approximate memory requirements and relative speed](https://github.com/openai/whisper)
+   - [Command-line usage](https://github.com/openai/whisper)
