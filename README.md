@@ -33,5 +33,6 @@
 
 1. [OpenAI API reference](https://platform.openai.com/docs/api-reference)
 2. [How to turn audio into text](https://platform.openai.com/docs/api-reference/audio)
-3. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
-4. [The open source version of Whisper](https://github.com/openai/whisper)
+3. [How to translates audio into English](https://platform.openai.com/docs/api-reference/audio/create)
+4. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
+5. [The open source version of Whisper](https://github.com/openai/whisper)
