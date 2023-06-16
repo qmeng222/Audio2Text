@@ -36,3 +36,4 @@
 3. [How to translates audio into English](https://platform.openai.com/docs/api-reference/audio/create)
 4. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
 5. [The open source version of Whisper](https://github.com/openai/whisper)
+6. [Figure: Whisper's Word Error Rate (WER) breakdown by languages](https://github.com/openai/whisper)
