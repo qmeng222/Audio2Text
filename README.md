@@ -6,7 +6,7 @@
 - Tech stack:
   - Programming language: Python
   - Computing platform: Jupyter Notebook
-  - Speech recognition model: Whisper
+  - Speech recognition model: whisper-1
   - Version control: Git, GitHub
 - Overview:
 
@@ -25,9 +25,13 @@
 4. Install libraries/packages:
    - install OpenAI: `pip install openai`
    - Install the python-dotenv package: `pip install python_dotenv`
+   - Install the PortAudio library to provide audio input and output capabilities: `brew install portaudio`
+   - Install the PyAudio library to access and manipulate audio streams: `pip install pyaudio`
 5. Generate a snapshot of the installed packages and their versions to the requirements.txt file (or overwrite the txt file): `pip freeze > requirements.txt`, so others can install all the packages and their respective versions specified in the requirements.txt file with `pip install -r requirements.txt`
 
 ## Resources:
 
-1. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
-2. [The open source version of Whisper](https://github.com/openai/whisper)
+1. [OpenAI API reference](https://platform.openai.com/docs/api-reference)
+2. [How to turn audio into text](https://platform.openai.com/docs/api-reference/audio)
+3. [About the Whisper model](https://platform.openai.com/docs/models/whisper)
+4. [The open source version of Whisper](https://github.com/openai/whisper)
